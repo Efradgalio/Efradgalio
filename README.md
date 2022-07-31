@@ -1,4 +1,4 @@
-<h2>Welcome! <a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
+<h2>Welcome! <a href="https://github.com/Efradgalio"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
@@ -7,23 +7,23 @@
 <h3>Reach me out 👍</h3>
 <p>
 <!--
-<a href="https://www.instagram.com/russellsaerang2702/">
+<a href="https://www.instagram.com/efradgalio/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 -->
-<a href="https://www.linkedin.com/in/nicholasrussellsaerang/">
+<a href="https://www.linkedin.com/in/efradgalio/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:russellsaerang@gmail.com">
+<a href="mailto:galioefrad@gmail.com">
   <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://medium.com/@russellsaerang">
+<a href="https://medium.com/@efradgamer">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-<a href="https://www.kaggle.com/russellsaerang">
+<a href="https://www.kaggle.com/efradgamer">
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 </a>
-<a href="https://www.hackerrank.com/russellsaerang">
+<a href="https://www.hackerrank.com/efradgamer">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 <!--
@@ -34,10 +34,10 @@
 </p>
 
 <p float="left">
-  <a href="https://github.com/RussellDash332/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Russell's GitHub Stats" />
+  <a href="https://github.com/Efradgalio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Efradgalio2&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Efrad's GitHub Stats" />
   <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efradgalio&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
   -->
   </a>
 </p>
