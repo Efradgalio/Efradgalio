@@ -45,7 +45,7 @@
 <h3>Most Used Languages </h3>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Efradgalio&layout=compact&theme=react&title_color=3CA00A&custom_title=My Wakatime Stats"/></a>
 <h3>Contribution Graph</h3>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=Efradgalio&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=3CA00A"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=Efradgalio&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=3CA00A&color=3CA00A"/></a>
 
 <div align="right">
   Last refreshed: <b>Sunday, 31 July, 10:06 GMT+8</b>
