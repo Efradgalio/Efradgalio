@@ -52,35 +52,17 @@
 5. ❗️ Opened issue [#4745](https://github.com/Coursemology/coursemology2/issues/4745) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
-<h3>Singapore's Weather ⛅</h3>
-<table>
-  <tr>
-    <th>Weather</th>
-    <th>Temperature</th>
-    <th>Sunrise</th>
-    <th>Sunset</th>
-    <th>Humidity</th>
-  </tr>
-  <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>29°C</b></td>
-    <td><b>07:05</b></td>
-    <td><b>19:16</b></td>
-    <td><b>77%</b></td>
-  </tr>
-</table>
-
 <details>
   <summary>
     <b>Wakatime Stats</b>
   </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=RussellDash332&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Efradg&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
 </details>
 <details>
   <summary>
     <b>Contribution Graph</b>
   </summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=RussellDash332&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=Efradg&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
 </details>
 
 <div align="right">
