@@ -54,8 +54,6 @@
     <summary>
       <b>Credits</b>
     </summary>
-    Dynamic README inspired by <b><i><a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert</a></i></b> and <b><i><a href="https://github.com/simonw/simonw">Simon Willison</a></i></b>
-    <br>Markdown Badges by <b><i><a href="https://github.com/Ileriayo/markdown-badges">Ileriayo Adebiyi</a></i></b>
-    <br>Weather Info by <b><i><a href="https://openweathermap.org/api">OpenWeather</a></i></b>
+    Dynamic README inspired by <b><i><a href="https://github.com/RussellDash332/RussellDash332">Russel Saerang</a></i></b>
   </details>
 </div>
