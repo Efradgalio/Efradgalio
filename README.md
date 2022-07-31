@@ -35,7 +35,7 @@
 
 <p float="left">
   <a href="https://github.com/Efradgalio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Efradgalio&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Efrad's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Efradgalio&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=3CA00A&icon_color=3CA00A&custom_title=Efrad's GitHub Stats" />
   <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efradgalio&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
   -->
