@@ -35,11 +35,11 @@
 
 <p float="left">
   <a href="https://github.com/Efradgalio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Efradgalio&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=3CA00A&icon_color=3CA00A&custom_title=Efrad's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Efradgalio&count_private=true&hide_rank=false&show_icons=true&theme=buefy&include_all_commits=true&title_color=3CA00A&icon_color=3CA00A&custom_title=Efrad's GitHub Stats" />
   </a>
 </p>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efradgalio&layout=compact&theme=react&title_color=3CA00A&custom_title=Most Used Languages"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efradgalio&layout=compact&theme=buefy&title_color=3CA00A&custom_title=Most Used Languages"/></a>
 
 
 <div align="right">
