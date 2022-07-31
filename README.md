@@ -42,12 +42,11 @@
   </a>
 </p>
 
-<details>
+<h3>Most Used Languages 👍</h3>
   <summary>
     <b>Wakatime Stats</b>
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Efradgalio&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
-</details>
 <details>
   <summary>
     <b>Contribution Graph</b>
