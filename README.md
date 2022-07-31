@@ -42,27 +42,17 @@
   </a>
 </p>
 
-<h3>Recent Github Activity ⚡</h3>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Faris999/indonesian-mo-formalization/issues/11) in [Faris999/indonesian-mo-formalization](https://github.com/Faris999/indonesian-mo-formalization)
-2. 💪 Opened PR [#1241](https://github.com/Bogdanp/awesome-advent-of-code/pull/1241) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-3. ❗️ Opened issue [#4747](https://github.com/Coursemology/coursemology2/issues/4747) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-4. ❗️ Opened issue [#4746](https://github.com/Coursemology/coursemology2/issues/4746) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-5. ❗️ Opened issue [#4745](https://github.com/Coursemology/coursemology2/issues/4745) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-<!--END_SECTION:activity-->
-
 <details>
   <summary>
     <b>Wakatime Stats</b>
   </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Efradg&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Efradgalio&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
 </details>
 <details>
   <summary>
     <b>Contribution Graph</b>
   </summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=Efradg&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=Efradgalio&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
 </details>
 
 <div align="right">
