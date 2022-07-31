@@ -1,4 +1,4 @@
-<h2>Welcome! <a href="https://github.com/Efradgalio"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
+<h2>Welcome! <a href="https://github.com/Efradgalio"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Efradgalio" alt="Visitors"></a></h2>
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
