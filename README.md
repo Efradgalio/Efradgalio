@@ -40,15 +40,3 @@
 </p>
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efradgalio&layout=compact&theme=buefy&title_color=3CA00A&custom_title=Most Used Languages"/></a>
-
-
-<div align="right">
-  Last refreshed: <b>Sunday, 31 July, 10:06 GMT+8</b>
-  <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
-  <details>
-    <summary>
-      <b>Credits</b>
-    </summary>
-    Dynamic README inspired by <b><i><a href="https://github.com/RussellDash332/RussellDash332">Russel Saerang</a></i></b>
-  </details>
-</div>
